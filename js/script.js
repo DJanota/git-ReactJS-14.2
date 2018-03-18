@@ -20,7 +20,7 @@ var movies = [
     {
         id: 4,
         title: 'Spider-Man',
-        desc: 'film o superbochaterze',
+        desc: 'film o superbohaterze',
         photo: 'https://unsplash.it/300/200?image=125'
     }
 
